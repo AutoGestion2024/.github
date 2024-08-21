@@ -3,7 +3,7 @@
 # AutoGestion: Master Your Garage, Simplify Your Workflow </p>
 
 ## Context
-he project was initiated to help a young mechanic modernize and simplify the management of his garage. Faced with time-consuming administrative tasks and the need to manually track repairs and invoices, he expressed the need for a digital solution that centralizes all information related to vehicles and customers, making his work faster and more efficient.
+The project was initiated to help a young mechanic modernize and simplify the management of his garage. Faced with time-consuming administrative tasks and the need to manually track repairs and invoices, he expressed the need for a digital solution that centralizes all information related to vehicles and customers, making his work faster and more efficient.
 
 ## Authors
 - Cosmo De Oliveira Maria Vitória
