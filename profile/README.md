@@ -29,4 +29,17 @@ The main objective is to centralize and digitize the management of vehicle and c
 
 ## How to launch the project
 
-TODO
+To lunch our project on your phone...
+
+We use these frameworks in our app, so be sure to know how they works : Android Room, Jetpack Compose, Retrofit
+
+1. Install Android studio on your laptop
+2. clone the project repo
+3. Build it to make sure everything is ok
+4. On your phone, you need to enable Developper mode
+5. Enbale USB Debugging
+
+That's it ! Now everytime you build your app, it will download it on the phone so you can test it in live mode
+
+
+## Workflow
