@@ -46,3 +46,9 @@ That's it ! Now everytime you build your app, it will download it on the phone s
 - Commit and push the modifications: We commit and push our changes to the current branch
 - Create a pull request: To submit our modifications, we create a pull request
 - Maintainer: merge the pull request: The maintainer of the upstream repository reviews and merges our changes into the "main" branch
+
+## How to install on your phone 
+
+1. Go to this [link](https://github.com/AutoGestion2024/AutoGestionApp/releases) and download the lastest release
+2. Download the apk on your phone
+3. Click on the apk file to install it
