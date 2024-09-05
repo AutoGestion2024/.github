@@ -43,3 +43,8 @@ That's it ! Now everytime you build your app, it will download it on the phone s
 
 
 ## Workflow
+- Create a new branch and switch to it: We create new branches for each feature we work on
+- Add modifications: After modifying some files, we add them to the staging area
+- Commit and push the modifications: We commit and push our changes to the current branch
+- Create a pull request: To submit our modifications, we create a pull request
+- Maintainer: merge the pull request: The maintainer of the upstream repository reviews and merges our changes into the "main" branch
