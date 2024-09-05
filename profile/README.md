@@ -21,11 +21,9 @@ The main objective is to centralize and digitize the management of vehicle and c
 - Creation of the form : driver information, vehicle information, photo of the vehicle registration, description of the breakdown, related invoices
 - Adding photos to the form
 - Displaying data from a car profile
-- Search in the vehicle list or add a new vehicle via license plate reader
+- Specific search to find vehicle information in the vehicle list via license plate reader, or by first name and last name
 - Modification/deletion of a profile
 - Information on the invoice status
-- Specific search to find vehicle information
-- Transfer of information to another phone
 
 ## How to launch the project
 
@@ -34,7 +32,7 @@ To lunch our project on your phone...
 We use these frameworks in our app, so be sure to know how they works : Android Room, Jetpack Compose, Retrofit
 
 1. Install Android studio on your laptop
-2. clone the project repo
+2. Clone the project repo
 3. Build it to make sure everything is ok
 4. On your phone, you need to enable Developper mode
 5. Enbale USB Debugging
